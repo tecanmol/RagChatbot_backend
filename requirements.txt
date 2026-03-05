@@ -1,7 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 fastapi
 uvicorn
 faiss-cpu
 numpy
 sentence-transformers
-python-multipart
+scikit-learn
+torch
 pydantic
+python-multipart
