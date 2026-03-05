@@ -23,7 +23,7 @@ class RAGSearch:
         
         self.llm = ChatOpenAI(
             model=llm_model,
-            api_key=openrouter_api_key,
+            openai_api_key=openrouter_api_key,
             base_url="https://openrouter.ai/api/v1",
         )
         print(f"[INFO] OpenRouter LLM initialized: {llm_model}")
