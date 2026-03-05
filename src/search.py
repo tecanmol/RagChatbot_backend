@@ -18,6 +18,8 @@ class RAGSearch:
             self.vectorstore.load()
         
         openrouter_api_key = os.getenv("OPENROUTER_API_KEY")
+        if not openrouter_api_key:
+        raise ValueError("OPENROUTER_API_KEY not found")
         
         self.llm = ChatOpenAI(
             model=llm_model,
