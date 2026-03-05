@@ -13,3 +13,5 @@ python-dotenv
 langchain-community
 langchain-openai
 langchain-text-splitters
+langchain_google_genai
+
