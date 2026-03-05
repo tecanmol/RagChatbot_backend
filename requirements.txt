@@ -10,8 +10,6 @@ torch
 pydantic
 python-multipart
 python-dotenv
-langchain_community
-langchain_openai
-pathlib
-langchain_text_splitters
-pickle
+langchain-community
+langchain-openai
+langchain-text-splitters
