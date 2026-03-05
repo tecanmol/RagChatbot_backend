@@ -1,0 +1,23 @@
+Title: Frequently Asked Questions about Anmol Pandey
+Category: faq
+
+Q: Who is Anmol Pandey?
+A: Anmol Pandey is a third-year BE student specializing in Artificial Intelligence and Machine Learning at Universal College of Engineering, Vasai.
+
+Q: What is Anmol's CGPA?
+A: He has maintained a CGPA of 8.6 till Semester 5.
+
+Q: When will Anmol graduate?
+A: He is expected to graduate in 2027.
+
+Q: What technologies does Anmol work with?
+A: He works with Python, JavaScript, React, Node.js, Flask, MySQL, MongoDB, and LLM APIs such as OpenAI and Gemini.
+
+Q: Does Anmol have experience with AI and LLMs?
+A: Yes, he has hands-on experience integrating LLM APIs and building chatbot systems.
+
+Q: Has Anmol participated in hackathons?
+A: Yes, he has participated in multiple hackathons and attended major tech events like GDS WOW and Solana Hacker Day.
+
+Q: Does Anmol have cybersecurity knowledge?
+A: Yes, he has a minor in Cybersecurity and foundational knowledge in encryption and network security.

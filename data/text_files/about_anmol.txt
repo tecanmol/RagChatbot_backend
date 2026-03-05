@@ -1,0 +1,10 @@
+Title: About Anmol Pandey
+Category: personal
+
+Anmol Pandey is a third-year Bachelor of Engineering (BE) student specializing in Artificial Intelligence and Machine Learning at Universal College of Engineering, located in Vasai, Mumbai. He is currently in Semester 6 and has maintained a CGPA of 8.6 till Semester 5. He is expected to graduate in 2027.
+
+He also holds a minor specialization in Cybersecurity.
+
+Anmol is an AI/ML engineering student with hands-on experience in full-stack development and Large Language Model (LLM) integration. He has experience designing scalable REST APIs and deploying intelligent web applications.
+
+His interests include AI agents, backend architecture, real-world machine learning deployment, cybersecurity principles, and blockchain-based smart contracts.

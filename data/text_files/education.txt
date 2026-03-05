@@ -1,0 +1,18 @@
+Title: Education Background
+Category: education
+
+Degree: Bachelor of Engineering (BE)
+Major: Artificial Intelligence and Machine Learning
+Minor: Cybersecurity
+College: Universal College of Engineering
+Location: Vasai, Mumbai
+Expected Graduation Year: 2027
+CGPA: 8.6 (till Semester 5)
+
+Relevant Areas of Study:
+- Machine Learning
+- Data Structures and Algorithms
+- Database Management Systems
+- Cloud Computing
+- Cybersecurity Fundamentals
+- Artificial Intelligence Systems

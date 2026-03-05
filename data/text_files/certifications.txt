@@ -1,0 +1,11 @@
+Title: Certifications
+Category: certifications
+
+Anmol Pandey has completed the following certifications:
+
+- AWS Educate – Introduction to Generative AI
+- Google – AI Essentials
+- Google – Foundations of Cybersecurity
+- Google – Introduction to Cloud Identity
+
+These certifications demonstrate his foundational knowledge in AI, cybersecurity, and cloud technologies.

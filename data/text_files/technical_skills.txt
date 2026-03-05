@@ -1,0 +1,46 @@
+Title: Technical Skills of Anmol Pandey
+Category: skills
+
+Programming Languages:
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+
+Generative AI & LLMs:
+- Prompt engineering
+- OpenAI API integration
+- Gemini API integration
+- Chatbot development
+- LLM-powered application design
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Flask
+- REST API design
+
+Databases:
+- MySQL
+- MongoDB
+
+Tools & Technologies:
+- Git
+- GitHub CI/CD pipelines
+- Visual Studio Code
+- Jupyter Notebook
+- Linux command line
+
+Cloud Technologies:
+- AWS (familiarity)
+- Microsoft Azure (familiarity)
+- Google Cloud Platform (familiarity)
+
+Cybersecurity:
+- Encryption fundamentals
+- Network security basics
+- Secure coding principles

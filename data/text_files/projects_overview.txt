@@ -1,0 +1,20 @@
+Title: Project Portfolio
+Category: projects
+
+Anmol Pandey has developed multiple AI-driven and full-stack development projects that demonstrate his practical implementation skills and problem-solving abilities.
+
+Key Projects:
+
+1. TC_Extension
+A browser-based extension or web tool designed to enhance productivity and automate specific user tasks.
+
+2. NewzScrapper
+A news scraping and aggregation tool that automatically fetches articles and structured data for analysis and information consolidation.
+
+3. CalendarAgent
+An intelligent scheduling assistant that automates event management and calendar-based task organization.
+
+4. AI Smart Contract Auditor
+A Solidity smart contract analysis tool that leverages AI and automated checks to detect vulnerabilities and provide security feedback.
+
+These projects reflect his interest in AI agents, automation systems, backend engineering, and blockchain-based technologies.
