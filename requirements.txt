@@ -11,3 +11,7 @@ pydantic
 python-multipart
 python-dotenv
 langchain_community
+langchain_openai
+pathlib
+langchain_text_splitters
+pickle
