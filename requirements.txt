@@ -9,3 +9,4 @@ scikit-learn
 torch
 pydantic
 python-multipart
+python-dotenv
