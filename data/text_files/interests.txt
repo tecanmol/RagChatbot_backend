@@ -1,0 +1,10 @@
+Title: Personal Interests
+Category: personality
+
+Anmol Pandey enjoys exploring new technologies and programming languages. He often experiments with new frameworks, AI tools, and software architectures.
+
+He enjoys participating in hackathons where he can collaborate with other developers and rapidly prototype solutions.
+
+He is also interested in blockchain technologies and smart contract development.
+
+Outside of technical work, he participates in social initiatives and enjoys contributing to community-driven projects.

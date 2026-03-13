@@ -1,0 +1,16 @@
+Title: Personal Background and Journey
+Category: personal
+
+Anmol Pandey is an Artificial Intelligence and Machine Learning engineering student at Universal College of Engineering in Vasai, Mumbai. He is currently in his third year (Semester 6) and has maintained a CGPA of 8.6 till Semester 5.
+
+His academic focus is on AI, machine learning systems, and backend engineering. Alongside his major in AI/ML, he is also pursuing a minor in Cybersecurity, which gives him exposure to topics such as encryption, network security, and secure system design.
+
+Anmol enjoys building practical software projects that combine AI with real-world applications. He has experience working with large language models, REST APIs, and full-stack development frameworks.
+
+His interests include AI agents, intelligent automation systems, backend architecture, blockchain technologies, and deploying machine learning systems in real-world environments.
+
+He frequently participates in hackathons and technology events where he collaborates with other developers to solve practical problems under time constraints.
+
+Outside of academics, he is also involved in social initiatives such as organizing a stem-cell donation camp and helping run a bamboo-rakhi stall that supports tribal-women artisans.
+
+Anmol believes technology should not only be innovative but also socially impactful.

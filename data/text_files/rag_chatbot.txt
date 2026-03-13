@@ -1,0 +1,14 @@
+Title: AskMe RAG Chatbot Backend
+Category: project
+
+AskMe RAG Chatbot Backend is a project built by Anmol Pandey that focuses on creating an intelligent AI-powered chatbot capable of answering questions about a specific person using Retrieval-Augmented Generation (RAG).
+
+The goal of the project is to build a personalized AI assistant that can retrieve information from a structured knowledge base and generate accurate, context-aware responses to user queries.
+
+The project explores the implementation of a RAG architecture, where user queries are matched against a vector database containing embedded documents about Anmol. The most relevant information is retrieved and passed to a language model to generate a clear and concise response.
+
+The system processes structured text documents containing details about education, skills, certifications, projects, and activities. These documents are converted into vector embeddings and stored in a FAISS vector database, enabling efficient semantic search.
+
+The backend exposes an API built with FastAPI, allowing applications to send queries and receive streaming AI-generated responses in real time.
+
+Technologies used in the project include Python, FastAPI, FAISS, Sentence Transformers, LangChain, and Google Gemini LLM. The project demonstrates Anmol's interest in AI systems, retrieval-augmented generation, semantic search, and building scalable AI-powered backend services.

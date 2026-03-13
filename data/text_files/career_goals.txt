@@ -1,0 +1,16 @@
+Title: Career Goals
+Category: career
+
+Anmol Pandey aims to build a career in Artificial Intelligence and software engineering.
+
+In the short term, he is focused on gaining hands-on experience through projects, hackathons, and internships where he can work on real-world AI systems and backend architectures.
+
+His long-term goal is to work on intelligent systems that combine machine learning, software engineering, and scalable infrastructure.
+
+He is particularly interested in fields such as:
+- AI agents
+- Large language model applications
+- backend architecture
+- machine learning deployment
+- intelligent automation systems
+- Blockchain

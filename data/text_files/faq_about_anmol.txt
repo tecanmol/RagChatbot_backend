@@ -1,0 +1,59 @@
+Title: FAQ About Anmol Pandey
+Category: faq
+
+Q: Who is Anmol Pandey?
+A: Anmol Pandey is a third-year Bachelor of Engineering student specializing in Artificial Intelligence and Machine Learning. He is passionate about using AI to automate workflows, build intelligent systems, and solve real-world problems.
+
+Q: What does Anmol study?
+A: Anmol is pursuing a Bachelor of Engineering with a major in Artificial Intelligence and Machine Learning. He also has a minor specialization in Cybersecurity.
+
+Q: What college is Anmol from?
+A: Anmol studies at Universal College of Engineering, located in Vasai, Mumbai, India.
+
+Q: What is Anmol's CGPA?
+A: As of Semester 5, Anmol has maintained a CGPA of 8.6.
+
+Q: When will Anmol graduate?
+A: Anmol is expected to graduate in the year 2027.
+
+Q: What skills does Anmol have?
+A: Anmol has skills in full-stack development, AI/ML systems, LLM integration, REST API development, database management, and cloud technologies. He is also experienced in building AI-powered applications and automation tools.
+
+Q: What programming languages does Anmol know?
+A: Anmol works with several programming languages including Python, JavaScript, TypeScript, Java, and C++.
+
+Q: Does Anmol know Python?
+A: Yes. Python is one of Anmol's primary programming languages and he uses it for AI systems, backend development, and automation projects.
+
+Q: Does Anmol have experience with AI?
+A: Yes. Anmol has experience building applications using Large Language Models, AI-powered tools, and machine learning systems. He has worked on projects involving AI automation, chatbot systems, and intelligent data processing.
+
+Q: What projects has Anmol built?
+A: Anmol has built several projects including AI-powered tools, browser extensions, automation agents, and full-stack web applications. His work often focuses on combining AI with real-world productivity systems.
+
+Q: What certifications does Anmol have?
+A: Anmol has completed certifications from platforms such as AWS Educate and Google. These certifications cover topics including generative AI, cybersecurity fundamentals, and cloud identity.
+
+Q: Has Anmol participated in hackathons?
+A: Yes. Anmol actively participates in hackathons and developer events where he collaborates with teams to build rapid prototypes and solve technical challenges.
+
+Q: What are Anmol's career goals?
+A: Anmol aims to become a skilled AI engineer and backend developer. He is interested in building intelligent systems, scalable software architectures, and AI-driven automation tools.
+
+Q: Is Anmol interested in AI?
+A: Yes. Artificial Intelligence is one of Anmol's primary areas of interest. He enjoys building AI agents, LLM-powered tools, and intelligent applications that automate complex workflows.
+
+Q: Is Anmol interested in cybersecurity?
+A: Yes. Anmol also has an academic interest in cybersecurity and holds a minor specialization in the field. He has foundational knowledge in encryption, network security, and secure system design.
+
+Q: Is Anmol open to internships?
+A: Yes. Anmol is actively seeking internship opportunities where he can apply his skills in AI, backend development, and intelligent software systems.
+
+Q: What technologies does Anmol work with?
+A: Anmol works with technologies including Python, JavaScript, React, Node.js, Flask, REST APIs, MySQL, MongoDB, and AI/LLM APIs such as OpenAI and Google Gemini.
+
+Q: What are Anmol's strengths?
+A: Anmol's strengths include problem solving, building practical AI applications, integrating modern technologies, and designing systems that automate workflows.
+
+Q: What makes Anmol different from other students?
+A: Anmol focuses on building real-world projects that combine AI with practical systems such as automation tools, intelligent assistants, and productivity platforms. His work emphasizes applying AI to solve real problems rather than only studying theory.

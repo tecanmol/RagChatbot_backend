@@ -1,0 +1,12 @@
+Title: T&C Guardian
+Category: project
+
+T&C Guardian is a project built by Anmol Pandey that focuses on helping users understand website Terms & Conditions using artificial intelligence.
+
+The goal of the project is to simplify complex legal agreements by automatically analyzing the content of a webpage and highlighting important information that users should know before accepting them.
+
+The project explores the idea of building an AI-powered browser extension that can extract Terms & Conditions from websites, analyze them using a language model, and present a clear summary along with potential risks and user-friendly clauses.
+
+The extension collects relevant text from webpages, sends it to an AI-powered backend for analysis, and returns structured insights including summaries, red flags, and beneficial clauses to help users make informed decisions.
+
+Technologies used in the project include JavaScript, React, Node.js, Express, Chrome Extension APIs, and OpenRouter AI. The project demonstrates Anmol's interest in AI-powered tools, browser automation, and consumer protection through intelligent software systems.

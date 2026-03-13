@@ -1,0 +1,14 @@
+Title: CalendarAgent
+Category: project
+
+CalendarAgent is a project built by Anmol Pandey that focuses on automating assignment tracking by integrating Gmail, Google Calendar, and generative AI.
+
+The goal of the project is to help students automatically track assignments by extracting important information from email notifications and converting them into structured calendar events.
+
+The project explores the use of AI-powered automation to read incoming Gmail messages, identify assignment-related content, extract key details such as title, due date, and description, and automatically schedule reminders in Google Calendar.
+
+The system connects to the Gmail API to retrieve unread classroom emails, uses the Google Gemini language model to analyze and extract assignment data, and then creates calendar events using the Google Calendar API. It also sends push notifications using ntfy.sh to remind the user about new assignments.
+
+The project can run locally or automatically through GitHub Actions, allowing the agent to check emails daily and keep the user's calendar updated without manual intervention.
+
+Technologies used in the project include Python, Google Gemini AI, Gmail API, Google Calendar API, GitHub Actions, and ntfy.sh notifications. The project demonstrates Anmol's interest in AI automation agents, workflow automation, and building intelligent productivity tools using APIs and language models.

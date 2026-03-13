@@ -1,0 +1,8 @@
+Q: What tech stack powers this website?
+A: The portfolio is built using React, Vite, and Tailwind CSS with Motion for animations. It also includes an AI chatbot powered by FastAPI, FAISS, and Google Gemini.
+
+Q: Does this portfolio include an AI chatbot?
+A: Yes. The site includes an AI chatbot built using Retrieval-Augmented Generation (RAG) to answer questions about Anmol Pandey.
+
+Q: Is this portfolio open source?
+A: The code for several projects showcased on the portfolio is available on Anmol's GitHub profile.
