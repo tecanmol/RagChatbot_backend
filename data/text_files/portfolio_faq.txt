@@ -6,3 +6,20 @@ A: Yes. The site includes an AI chatbot built using Retrieval-Augmented Generati
 
 Q: Is this portfolio open source?
 A: The code for several projects showcased on the portfolio is available on Anmol's GitHub profile.
+
+Q: How is this site build?
+A: Tech Stack:
+    React 19 — UI framework
+    Vite 7 — build tool & dev server
+    Tailwind CSS v4 — styling (via @tailwindcss/vite plugin)
+    Motion (Framer Motion) — animations
+    React Router DOM v7 — client-side routing
+    COBE — the interactive 3D globe
+Architecture
+Two pages:
+
+/ — main portfolio (Home)
+/links — a linktree-style page
+
+Sections flow (top → bottom):
+Navbar → Hero → About → FeaturedProjects → MoreToExplore → Footer
