@@ -23,3 +23,13 @@ Two pages:
 
 Sections flow (top → bottom):
 Navbar → Hero → About → FeaturedProjects → MoreToExplore → Footer
+
+
+Q: How is this website built?
+A: The portfolio is built with React 19, Vite 7, and Tailwind CSS v4. Animations use Motion (Framer Motion), routing uses React Router DOM v7, and the 3D globe uses the COBE library. It is deployed on GitHub Pages.
+
+Q: What is the tech stack of this portfolio?
+A: React 19, Vite 7, Tailwind CSS v4, Motion/Framer Motion, React Router DOM v7, COBE globe, and a RAG chatbot backend using FastAPI, FAISS, and Google Gemini.
+
+Q: What frameworks does this site use?
+A: The frontend uses React with Vite as the build tool and Tailwind for styling.
